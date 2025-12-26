@@ -1,0 +1,14 @@
+{
+    "id": "{76541AB5-1748-AE79-7E25-721E57448472}",
+    "name": "Servicemeldungen",
+    "type": 3,
+    "vendor": "Ulrich Bittner",
+    "aliases": [
+        "Servicemeldungen"
+    ],
+    "url": "https://github.com/ubittner/Servicemeldungen/tree/main/Servicemeldungen",
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "SM"
+}

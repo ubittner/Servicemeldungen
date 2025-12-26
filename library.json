@@ -1,0 +1,12 @@
+{
+    "id": "{C69ED9A8-E61B-F360-5FA2-7304D1BF8D05}",
+    "name": "Servicemeldungen",
+    "author": "Ulrich Bittner",
+    "url": "https://github.com/ubittner/Servicemeldungen",
+    "compatibility": {
+        "version": "8.0"
+    },
+    "version": "1.0",
+    "build": 4,
+    "date": 1750782762
+}
