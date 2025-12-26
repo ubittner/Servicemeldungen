@@ -12,8 +12,8 @@ class Servicemeldungen extends IPSModule
     use Notifications;
 
     // Constants
-    private const LIBRARY_GUID = '{E095D925-0603-3299-3534-EF11FC14E13E}';
-    private const MODULE_GUID = '{F93F16FE-A38B-0F42-C7FD-821140955D7D}';
+    private const LIBRARY_GUID = '{C69ED9A8-E61B-F360-5FA2-7304D1BF8D05}';
+    private const MODULE_GUID = '{C69ED9A8-E61B-F360-5FA2-7304D1BF8D05}';
     private const MODULE_PREFIX = 'SM';
     private const NOTIFICATION_MODULE_GUID = '{BDAB70AA-B45D-4CB4-3D65-509CFF0969F9}';
     private const WEBFRONT_MODULE_GUID = '{3565B1F2-8F7B-4311-A4B6-1BF1D868F39E}';
